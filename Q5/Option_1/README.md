@@ -19,4 +19,5 @@ This is a simple "Hello World" application built using React.
    http://localhost:3000
    ```
 
-The page will display "Hello World!" centered on the screen.
+Output:
+![Hello World React App Screenshot](hello_world_screenshot.png)
