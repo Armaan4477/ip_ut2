@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ecommerce SYSTEM "products.dtd">
+<ecommerce>
+  <product product_id="p001">
+    <product_name>Smartphone XYZ</product_name>
+    <product_cost>999.99</product_cost>
+    <purchase_date>2025-10-05</purchase_date>
+    <purchased_by>John Doe</purchased_by>
+    <sellername>Tech Store Inc.</sellername>
+  </product>
+  <product product_id="p002">
+    <product_name>Wireless Headphones</product_name>
+    <product_cost>199.99</product_cost>
+    <purchase_date>2025-10-06</purchase_date>
+    <purchased_by>Jane Smith</purchased_by>
+    <sellername>Audio World</sellername>
+  </product>
+  <product product_id="p003">
+    <product_name>Smart Watch</product_name>
+    <product_cost>349.99</product_cost>
+    <purchase_date>2025-10-07</purchase_date>
+    <purchased_by>Mike Johnson</purchased_by>
+    <sellername>Tech Store Inc.</sellername>
+  </product>
+</ecommerce>

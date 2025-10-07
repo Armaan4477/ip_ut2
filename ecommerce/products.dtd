@@ -1,0 +1,8 @@
+<!ELEMENT ecommerce (product+)>
+<!ELEMENT product (product_name, product_cost, purchase_date, purchased_by, sellername)>
+<!ATTLIST product product_id ID #REQUIRED>
+<!ELEMENT product_name (#PCDATA)>
+<!ELEMENT product_cost (#PCDATA)>
+<!ELEMENT purchase_date (#PCDATA)>
+<!ELEMENT purchased_by (#PCDATA)>
+<!ELEMENT sellername (#PCDATA)>
